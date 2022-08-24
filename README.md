@@ -34,11 +34,12 @@ The following topics are covered in depth:
 - **Project 5:** Communicate your findings (California Airport Passenger Traffic).
 
 ## Certificate of Completion
+<p align="center">
+<img src="Certificate of Completion\01 Data Analysis Challenger.jpg" alt="1"  style="width:600px;"/>
 
 <p align="center">
-<img src="Certificate of Completion\01 Data Analysis Challenger.jpg" alt="1"  style="width:800px;"/>
+<img src="Certificate of Completion\02 Data Analysis Professional.jpg" alt="1"  style="width:600px;"/>
+
 <p align="center">
-<img src="Certificate of Completion\02 Data Analysis Professional.jpg" alt="1"  style="width:800px;"/>
-<p align="center">
-<img src="Certificate of Completion\03 Advanced Data Analysis.jpg" alt="1"  style="width:800px;"/>
+<img src="Certificate of Completion\03 Advanced Data Analysis.jpg" alt="1"  style="width:600px;"/>
 
