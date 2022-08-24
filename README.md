@@ -36,10 +36,6 @@ The following topics are covered in depth:
 ## Certificate of Completion
 <p align="center">
 <img src="Certificate of Completion\01 Data Analysis Challenger.jpg" alt="1"  style="width:600px;"/>
-
-<p align="center">
 <img src="Certificate of Completion\02 Data Analysis Professional.jpg" alt="1"  style="width:600px;"/>
-
-<p align="center">
 <img src="Certificate of Completion\03 Advanced Data Analysis.jpg" alt="1"  style="width:600px;"/>
 
