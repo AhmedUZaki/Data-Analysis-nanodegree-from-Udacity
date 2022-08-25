@@ -47,6 +47,7 @@ The following topics are covered in depth:
 <p align="center">
 <img src="Certificate of Completion\02 Data Analysis  Professional.jpg" alt="1"  style="width:600px;"/>
 </p>
+
 #### 3.[Advanced Data Analysis](https://graduation.udacity.com/confirm/DT5EKNUP).
 
 <p align="center">
