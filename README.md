@@ -41,6 +41,7 @@ The following topics are covered in depth:
 <p align="center">
 <img src="Certificate of Completion\01 Data  Analysis Challenger.jpg" alt="1"  style="width:600px;"/>
 </p>
+
 #### 2.[Data Analysis Professional](https://graduation.udacity.com/confirm/MRMAMAQC). 
 
 <p align="center">
@@ -51,4 +52,3 @@ The following topics are covered in depth:
 <p align="center">
 <img src="Certificate of Completion\03 Advanced Data  Analysis.jpg" alt="1"  style="width:600px;"/>
 </p>
-
