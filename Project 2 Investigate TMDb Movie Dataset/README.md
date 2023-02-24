@@ -1,4 +1,4 @@
-## Project 2: [Investigate TMDb Movie Dataset ](https://www.kaggle.com/code/deepak525/investigate-tmdb-movie-dataset)
+## Project 2: Investigate TMDb Movie Dataset 
 In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
 
 The libraries that I needed to install :
