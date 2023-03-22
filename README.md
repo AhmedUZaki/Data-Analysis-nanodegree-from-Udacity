@@ -22,7 +22,7 @@ The following topics are covered in depth:
 - Create and analyze the results of hypothesis testing and A/B testing using **Statsmodels**.
 - Build a **regression** model.
 - Build visualizations using different design elements using **Matplotlib** and **Seaborn**.
-- Use **visualizations** to explore your data and communicate insights.
+- Use **visualizations** to explore data and communicate insights.
 - Write **PostgreSQL** to query a single table & multiple tables.
 
 ## Projects
